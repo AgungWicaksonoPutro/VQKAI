@@ -1,0 +1,6 @@
+[submodule "QueueManagementService"]
+	path = QueueManagementService
+	url = https://github.com/AgungWicaksonoPutro/QueuemanagementserviceApplication.git
+[submodule "CoreLib"]
+	path = CoreLib
+	url = https://github.com/AgungWicaksonoPutro/corelib.git
